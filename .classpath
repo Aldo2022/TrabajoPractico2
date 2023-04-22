@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="UTN_Curso_Java_TrabaoIntegrador_ent2-main/src/main/java"/>
+	<classpathentry kind="src" path="UTN_Curso_Java_TrabaoIntegrador_ent2-main/src/test/java"/>
+	<classpathentry kind="lib" path="UTN_Curso_Java_TrabaoIntegrador_ent2-main/target/original-TrabajoIntegrador_ent2-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="UTN_Curso_Java_TrabaoIntegrador_ent2-main/target/TrabajoIntegrador_ent2-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="UTN_Curso_Java_TrabaoIntegrador_ent2-main/target/classes"/>
+</classpath>
